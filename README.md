@@ -3,7 +3,7 @@ With the development of Singapore's society and factories, security and safety i
 
 ## What it does
 To detect objects in a marked area. Can be used for surveillance purposes, baby care, etc.
-## How we built it
+## How I built it
 1. Color recognition API using KNN classifier
 To identify objects colour
 Dataset: Color samples
@@ -12,3 +12,5 @@ With a script to extract ROI region using mouse event for new inputs
 3. Yolo V4 & Deepsort
 To identify object & extract object information
 Dataset: COCO dataset
+## What's next for The Guardian AI
+Can link to IoT solution to build a complete or half auto system to guard and protect specific area
