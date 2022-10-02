@@ -7,7 +7,7 @@ With the development of Singapore's society and factories, security and safety i
 
 ## What it does
 To detect objects in a marked area. Can be used for surveillance purposes, baby care, etc.
-## How I built it
+## Model/API used
 1. Color recognition API using KNN classifier
 To identify objects colour
 Dataset: Color samples
